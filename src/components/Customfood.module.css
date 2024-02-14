@@ -1,0 +1,11 @@
+.nkTextField{     
+        padding: 10px; 
+       margin: 10px 0 10px 0;
+       width: 90% !important;
+       float: left;
+   }
+   .nkButton{
+    min-width:79px;
+    float: right;
+    margin: 14px;
+}
